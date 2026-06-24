@@ -33,7 +33,14 @@ This project showcases a modern construction company website with:
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of homepage, services page, etc. here for visual appeal)*
+
+<img width="1753" height="7173" alt="AK A Home" src="https://github.com/user-attachments/assets/3fc20c91-ed15-4e9d-82b1-570511cd1df0"/>
+<img width="1753" height="2728" alt="AKA Contact" src="https://github.com/user-attachments/assets/0dc0c256-c8d8-4140-90e4-558f4f2b18c6"/>
+<img width="1753" height="4745" alt="AKA Projects" src="https://github.com/user-attachments/assets/2100e46c-3515-49da-b4e0-1222225d7a1c" />
+
+
+
+
 
 ---
 
